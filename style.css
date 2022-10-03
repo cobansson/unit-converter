@@ -1,0 +1,109 @@
+@font-face {
+    font-family: Inter;
+    src: url("fonts/Inter/Inter-VariableFont_slnt\,wght.ttf");
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    background: black;
+}
+
+.container {
+    text-align: center;
+    font-family: Inter;
+}
+
+.firstColumn {
+    background: #6943FF;
+    margin: 80px 80px 0px 80px;
+    padding: 20px;
+    color: #FFFFFF;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.headerStyle {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.inputBox {
+    margin-top: 20px;
+    text-align: center;
+    font-family: Inter;
+    line-height: 24.4px;
+    font-size: 58px;
+    font-weight: bolder;
+    color: #FFFFFF;
+
+    height: 83px;
+    width: 170px;
+
+    border-radius: 5px;
+    border: #B295FF solid 2px;
+    background-color: #6943FF;
+}
+
+button {
+    color: #3D3D3D;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #FFFFFF;
+
+    height: 42px;
+    width: 117px;
+
+    border: none;
+    border-radius: 5px;
+
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.secondColumn {
+    background-color: #1F2937;
+
+    margin: 0px 80px 80px 80px;
+    padding: 20px;
+
+    border-radius: 0px 0px 10px 10px;
+}
+
+.parts {
+    margin: 35px 25px 25px 25px;
+    padding: 30px 80px;
+
+    background-color: #273549;
+    border-radius: 5px 0px 0px 0px;
+    border: #000000 solid 2px;
+}
+
+.h1Style {
+    color: #CCC1FF;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h2 {
+    color: FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+.classNo {
+    margin-top: 20px;
+    text-align: center;
+    font-family: Inter;
+    line-height: 24.4px;
+    font-size: 58px;
+    font-weight: bolder;
+    color: #FFFFFF;
+
+    height: 83px;
+    width: 170px;
+
+    border-radius: 5px;
+    border: #B295FF solid 2px;
+    background-color: red;
+}
